@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ki\u1EC7t\\OOP\\Lab9 - Serialization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{808F8952-3E30-4792-8693-81B7F5F51F12}|Lab9 - BinarySerializer.csproj|D:\\Ki\u1EC7t\\OOP\\Lab9 - Serialization\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808F8952-3E30-4792-8693-81B7F5F51F12}|Lab9 - BinarySerializer.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808F8952-3E30-4792-8693-81B7F5F51F12}|Lab9 - BinarySerializer.csproj|D:\\Ki\u1EC7t\\OOP\\Lab9 - Serialization\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808F8952-3E30-4792-8693-81B7F5F51F12}|Lab9 - BinarySerializer.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808F8952-3E30-4792-8693-81B7F5F51F12}|Lab9 - BinarySerializer.csproj|D:\\Ki\u1EC7t\\OOP\\Lab9 - Serialization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808F8952-3E30-4792-8693-81B7F5F51F12}|Lab9 - BinarySerializer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808F8952-3E30-4792-8693-81B7F5F51F12}|Lab9 - BinarySerializer.csproj|D:\\Ki\u1EC7t\\OOP\\Lab9 - Serialization\\exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808F8952-3E30-4792-8693-81B7F5F51F12}|Lab9 - BinarySerializer.csproj|solutionrelative:exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808F8952-3E30-4792-8693-81B7F5F51F12}|Lab9 - BinarySerializer.csproj|D:\\Ki\u1EC7t\\OOP\\Lab9 - Serialization\\sunflower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808F8952-3E30-4792-8693-81B7F5F51F12}|Lab9 - BinarySerializer.csproj|solutionrelative:sunflower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808F8952-3E30-4792-8693-81B7F5F51F12}|Lab9 - BinarySerializer.csproj|D:\\Ki\u1EC7t\\OOP\\Lab9 - Serialization\\wheat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808F8952-3E30-4792-8693-81B7F5F51F12}|Lab9 - BinarySerializer.csproj|solutionrelative:wheat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808F8952-3E30-4792-8693-81B7F5F51F12}|Lab9 - BinarySerializer.csproj|D:\\Ki\u1EC7t\\OOP\\Lab9 - Serialization\\tomato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808F8952-3E30-4792-8693-81B7F5F51F12}|Lab9 - BinarySerializer.csproj|solutionrelative:tomato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exception.cs",
+              "DocumentMoniker": "D:\\Ki\u1EC7t\\OOP\\Lab9 - Serialization\\Exception.cs",
+              "RelativeDocumentMoniker": "Exception.cs",
+              "ToolTip": "D:\\Ki\u1EC7t\\OOP\\Lab9 - Serialization\\Exception.cs",
+              "RelativeToolTip": "Exception.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T00:42:49.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sunflower.cs",
+              "DocumentMoniker": "D:\\Ki\u1EC7t\\OOP\\Lab9 - Serialization\\Sunflower.cs",
+              "RelativeDocumentMoniker": "Sunflower.cs",
+              "ToolTip": "D:\\Ki\u1EC7t\\OOP\\Lab9 - Serialization\\Sunflower.cs",
+              "RelativeToolTip": "Sunflower.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:02:40.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tomato.cs",
+              "DocumentMoniker": "D:\\Ki\u1EC7t\\OOP\\Lab9 - Serialization\\Tomato.cs",
+              "RelativeDocumentMoniker": "Tomato.cs",
+              "ToolTip": "D:\\Ki\u1EC7t\\OOP\\Lab9 - Serialization\\Tomato.cs",
+              "RelativeToolTip": "Tomato.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwBQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:02:30.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Wheat.cs",
+              "DocumentMoniker": "D:\\Ki\u1EC7t\\OOP\\Lab9 - Serialization\\Wheat.cs",
+              "RelativeDocumentMoniker": "Wheat.cs",
+              "ToolTip": "D:\\Ki\u1EC7t\\OOP\\Lab9 - Serialization\\Wheat.cs",
+              "RelativeToolTip": "Wheat.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:02:22.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Ki\u1EC7t\\OOP\\Lab9 - Serialization\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "D:\\Ki\u1EC7t\\OOP\\Lab9 - Serialization\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwBQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:02:03.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Ki\u1EC7t\\OOP\\Lab9 - Serialization\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "D:\\Ki\u1EC7t\\OOP\\Lab9 - Serialization\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:01:35.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ki\u1EC7t\\OOP\\Lab9 - Serialization\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Ki\u1EC7t\\OOP\\Lab9 - Serialization\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAQwBMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:01:11.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

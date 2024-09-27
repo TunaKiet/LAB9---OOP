@@ -1,0 +1,35 @@
+﻿Chào mừng đến với Harvest Farm!
+
+Lựa chọn hành động:
+1. Trồng Wheat (Cost: 50)
+2. Trồng Tomato (Cost: 100)
+3. Trồng Sunflower (Cost: 150)
+4. Thu hoạch toàn bộ cây trồng
+5. Lưu dữ liệu và thoát
+6. Tải dữ liệu từ file
+Người chơi đã chọn: 3
+Đã thêm hoa hướng dương.
+Phần thưởng hiện tại: 0
+
+Lựa chọn hành động:
+1. Trồng Wheat (Cost: 50)
+2. Trồng Tomato (Cost: 100)
+3. Trồng Sunflower (Cost: 150)
+4. Thu hoạch toàn bộ cây trồng
+5. Lưu dữ liệu và thoát
+6. Tải dữ liệu từ file
+Người chơi đã chọn: 4
+Đã thu hoạch toàn bộ cây trồng.
+Phần thưởng hiện tại: 110
+
+Lựa chọn hành động:
+1. Trồng Wheat (Cost: 50)
+2. Trồng Tomato (Cost: 100)
+3. Trồng Sunflower (Cost: 150)
+4. Thu hoạch toàn bộ cây trồng
+5. Lưu dữ liệu và thoát
+6. Tải dữ liệu từ file
+Người chơi đã chọn: 5
+Dữ liệu đã được lưu.
+Phần thưởng hiện tại: 110
+Cảm ơn bạn đã chơi Harvest Farm!

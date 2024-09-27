@@ -1,0 +1,14 @@
+D:\Kiệt\OOP\Lab9 - BinarySerializer\bin\Debug\Lab9 - BinarySerializer.exe.config
+D:\Kiệt\OOP\Lab9 - BinarySerializer\bin\Debug\Lab9 - BinarySerializer.exe
+D:\Kiệt\OOP\Lab9 - BinarySerializer\bin\Debug\Lab9 - BinarySerializer.pdb
+D:\Kiệt\OOP\Lab9 - BinarySerializer\obj\Debug\Lab9 - BinarySerializer.csproj.AssemblyReference.cache
+D:\Kiệt\OOP\Lab9 - BinarySerializer\obj\Debug\Lab9 - BinarySerializer.csproj.CoreCompileInputs.cache
+D:\Kiệt\OOP\Lab9 - BinarySerializer\obj\Debug\Lab9 - BinarySerializer.exe
+D:\Kiệt\OOP\Lab9 - BinarySerializer\obj\Debug\Lab9 - BinarySerializer.pdb
+D:\Kiệt\OOP\Lab9 - Serialization\bin\Debug\Lab9 - BinarySerializer.exe.config
+D:\Kiệt\OOP\Lab9 - Serialization\bin\Debug\Lab9 - BinarySerializer.exe
+D:\Kiệt\OOP\Lab9 - Serialization\bin\Debug\Lab9 - BinarySerializer.pdb
+D:\Kiệt\OOP\Lab9 - Serialization\obj\Debug\Lab9 - BinarySerializer.csproj.AssemblyReference.cache
+D:\Kiệt\OOP\Lab9 - Serialization\obj\Debug\Lab9 - BinarySerializer.csproj.CoreCompileInputs.cache
+D:\Kiệt\OOP\Lab9 - Serialization\obj\Debug\Lab9 - BinarySerializer.exe
+D:\Kiệt\OOP\Lab9 - Serialization\obj\Debug\Lab9 - BinarySerializer.pdb
